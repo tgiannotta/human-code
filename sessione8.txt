@@ -1,0 +1,10 @@
+1 - Verifichiamo quanti siamo per il pranzo;
+2     ? SE c'è una persona:
+         mettiamo una sedia;
+3 - Contiamo  le sedie 2 a 2 ;
+     ? SE ci sono due sedie; 
+        mettiamo due piatti:
+    ALTRIMENTI:
+        SE c'è una sedia:
+        Aggiungiamo un piatto;    
+4 - Buon appetito        
